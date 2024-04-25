@@ -11,7 +11,7 @@ body {
   
   @font-face {
     font-family: gotham;
-    src: url(Gotham-Black.otf);
+    src: url(../Gotham-Black.otf);
   }
 
   header {
@@ -27,7 +27,7 @@ body {
     margin-bottom: 20px;
   }
   
-  header button{[Your Name/Company Name] ([link to your website/portfolio])
+  header button{
     background-color: #fff;
     border: none;
     padding: 10px 20px;
